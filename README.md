@@ -204,6 +204,7 @@
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
+- [How to Auto-Generate Documentation, JAMstack Style](https://snipcart.com/blog/generate-documentation-javascript)
 
 ## Podcasts
 
